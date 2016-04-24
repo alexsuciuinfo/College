@@ -1,0 +1,5 @@
+insert_sort([H|T],T) :- insert_sort(T,A), insert(H,A,R);
+
+insert(X,[H|T],[H|R]) :- X>H, insert(X,T,R).
+insert(X,L,[X|L]).
+insert([X],[],[X]).

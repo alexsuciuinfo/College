@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1394115911 source:d:\code\biblio\main.cpp
+	<iostream>
+	<cstring>
+	<complex.h>
+	<SirDeCaractere.h>
+	<adresa.h>
+	<lista.h>
+	<persoana.h>
+	<windows.h>
+	<iomanip>
+
+1394044698 source:d:\code\biblio\src\complex.cpp
+	"complex.h"
+	<iostream>
+
+1394041877 d:\code\biblio\include\complex.h
+	<iostream>
+
+1393872808 source:d:\code\biblio\src\numeric.cpp
+	"numeric.h"
+	<iostream>
+
+1393872698 d:\code\biblio\include\numeric.h
+
+1394111876 source:d:\code\biblio\src\sirdecaractere.cpp
+	"SirDeCaractere.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1394111797 d:\code\biblio\include\sirdecaractere.h
+	<iostream>
+
+1394111767 source:d:\code\biblio\src\adresa.cpp
+	"adresa.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+
+1394113639 d:\code\biblio\include\adresa.h
+	<iostream>
+
+1394114602 source:d:\code\biblio\src\lista.cpp
+	"lista.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+
+1394113310 d:\code\biblio\include\lista.h
+	"complex.h"
+	"numeric.h"
+	"SirDeCaractere.h"
+	"adresa.h"
+
+1394039857 source:d:\code\biblio\src\persoana.cpp
+	"persoana.h"
+	<iostream>
+	<cstring>
+
+1394039812 d:\code\biblio\include\persoana.h
+	"lista.h"
+
+1394100877 source:d:\code\biblio\src\lala.cpp
+	"lala.h"
+
+1394100877 d:\code\biblio\include\lala.h
+
+1394115921 source:d:\code\suciu alexandru-grupa 141-biblioteca\biblio\main.cpp
+	<iostream>
+	<cstring>
+	<complex.h>
+	<SirDeCaractere.h>
+	<adresa.h>
+	<lista.h>
+	<persoana.h>
+
+1394041877 d:\code\suciu alexandru-grupa 141-biblioteca\biblio\include\complex.h
+	<iostream>
+
+1394111797 d:\code\suciu alexandru-grupa 141-biblioteca\biblio\include\sirdecaractere.h
+	<iostream>
+
+1394113639 d:\code\suciu alexandru-grupa 141-biblioteca\biblio\include\adresa.h
+	<iostream>
+
+1394113310 d:\code\suciu alexandru-grupa 141-biblioteca\biblio\include\lista.h
+	"complex.h"
+	"numeric.h"
+	"SirDeCaractere.h"
+	"adresa.h"
+
+1393872698 d:\code\suciu alexandru-grupa 141-biblioteca\biblio\include\numeric.h
+
+1394039812 d:\code\suciu alexandru-grupa 141-biblioteca\biblio\include\persoana.h
+	"lista.h"
+
+1394111767 source:d:\code\suciu alexandru-grupa 141-biblioteca\biblio\src\adresa.cpp
+	"adresa.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+
+1394044698 source:d:\code\suciu alexandru-grupa 141-biblioteca\biblio\src\complex.cpp
+	"complex.h"
+	<iostream>
+
+1394100877 source:d:\code\suciu alexandru-grupa 141-biblioteca\biblio\src\lala.cpp
+	"lala.h"
+
+1394100877 d:\code\suciu alexandru-grupa 141-biblioteca\biblio\include\lala.h
+
+1394114602 source:d:\code\suciu alexandru-grupa 141-biblioteca\biblio\src\lista.cpp
+	"lista.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+
+1394039857 source:d:\code\suciu alexandru-grupa 141-biblioteca\biblio\src\persoana.cpp
+	"persoana.h"
+	<iostream>
+	<cstring>
+
+1394111876 source:d:\code\suciu alexandru-grupa 141-biblioteca\biblio\src\sirdecaractere.cpp
+	"SirDeCaractere.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+

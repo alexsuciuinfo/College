@@ -1,0 +1,27 @@
+Pe malul stang sunt 120 misionari si 60 canibali 
+Pe malul drept sunt 0 misionari si 60 canibali 
+
+Pe malul stang sunt 120 misionari si 114 canibali 
+Pe malul drept sunt 0 misionari si 6 canibali 
+
+Pe malul stang sunt 87 misionari si 87 canibali 
+Pe malul drept sunt 33 misionari si 33 canibali 
+
+Pe malul stang sunt 88 misionari si 88 canibali 
+Pe malul drept sunt 32 misionari si 32 canibali 
+
+Pe malul stang sunt 58 misionari si 58 canibali 
+Pe malul drept sunt 62 misionari si 62 canibali 
+
+Pe malul stang sunt 59 misionari si 59 canibali 
+Pe malul drept sunt 61 misionari si 61 canibali 
+
+Pe malul stang sunt 29 misionari si 29 canibali 
+Pe malul drept sunt 91 misionari si 91 canibali 
+
+Pe malul stang sunt 30 misionari si 30 canibali 
+Pe malul drept sunt 90 misionari si 90 canibali 
+
+Pe malul stang sunt 0 misionari si 0 canibali 
+Pe malul drept sunt 120 misionari si 120 canibali 
+
